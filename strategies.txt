@@ -1,0 +1,10 @@
+colluder
+copier
+faker
+feeder
+gambler
+greedy
+nash
+safe
+spnash
+versus
