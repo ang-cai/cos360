@@ -3,8 +3,8 @@
 
 all: Simulator.class
 
-sd3.zip: Simulator.java Makefile Ultimatum.java Ultimatum_levelzero.java Tournament.java strategies.txt
-	zip sd3 Simulator.java Makefile Ultimatum.java Ultimatum_levelzero.java Tournament.java strategies.txt README.txt
+sd3.zip: Simulator.java Makefile Ultimatum.java Tournament.java strategies.txt
+	zip sd3 Simulator.java Makefile Ultimatum.java Tournament.java strategies.txt README.txt
 
 test: results.csv
 	@cat results.csv

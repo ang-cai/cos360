@@ -1,3 +1,8 @@
+README.txt: How to run a Tournament
+
+
+Original assignment README:
+
 README.txt: Quick guide to coding up your strategy
 
 For this assignment you have to implement the interface Ultimatum.java and create a file
