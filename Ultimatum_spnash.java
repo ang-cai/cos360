@@ -1,6 +1,7 @@
 // Ultimatum.java: interface for Ultimatum
 // COS 445, Spring 2018
 // Created by Andrew Wonnacott
+// Modified for COS360 research by Angela Cai
 
 public class Ultimatum_spnash implements Ultimatum {
   // We will instantiate an Alice and a Bob, then call methods as follows:

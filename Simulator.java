@@ -1,4 +1,5 @@
-// Testing code for PS3 problem 4
+// Testing code
+// Modified for COS360 research by Angela Cai
 
 import java.io.BufferedReader;
 import java.io.FileReader;

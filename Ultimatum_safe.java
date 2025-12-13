@@ -1,3 +1,5 @@
+// Modified for COS360 research by Angela Cai
+
 public class Ultimatum_safe implements Ultimatum {
 
     private int pastReceived;

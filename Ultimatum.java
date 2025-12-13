@@ -1,7 +1,7 @@
 // Ultimatum.java: interface for Ultimatum
 // COS 445, Spring 2018
 // Created by Andrew Wonnacott
-// Modified by Angela Cai for COS360
+// Modified for COS360 research by Angela Cai
 
 public interface Ultimatum {
   // We will instantiate an Alice and a Bob, then call methods as follows:
