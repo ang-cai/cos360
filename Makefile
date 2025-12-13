@@ -15,12 +15,5 @@ results.csv: all strategies.txt
 Simulator.class: *.java
 	javac -Xlint *.java
 
-#strategies.txt: Ultimatum_*.java
-#	@touch strategies.txt
-#	@ls | grep -e 'Ultimatum_.*\.java' | sed s/.*Ultimatum_// | sed s/\.java$$// > strategies.txt
-
 clean:
 	rm -rf *.class results.csv sd3.zip
-
-# upload: sd3.zip
-# 	scp sd3.zip cos445@cycles.cs.princeton.edu:~/../htdocs/cos445/sd3.zip

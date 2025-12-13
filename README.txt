@@ -1,7 +1,12 @@
 README.txt: How to run a Tournament
 
+Strategies are coded up as Ultimatum_{strategy name}. To add a player that runs a strategy, add {strategy name}
+as a line to the strategies.txt file. Strategies can be added multiple times to represent multiple players.
+Run "make test" in the terminal to run. Results will be outputted to a results.csv file. Rename the file to save
+the csv, otherwise it will be overwritten by other runs. The other files are used to code the structure of the 
+strategy design assignment and specifications.
 
-Original assignment README:
+Original COS445 assignment README:
 
 README.txt: Quick guide to coding up your strategy
 
